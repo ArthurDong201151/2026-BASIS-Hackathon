@@ -1,1 +1,1 @@
-testing
+This project shows a group of situations that can be used to test whether a person's behavior follows the laws. It can be used to spread knowledge about legislation and the moral values of human society. A user can use this app to test whether he has some ideas that are illegal or he is about to make some crimes. In this way, we provide a tool for police or educators to test and teach knowledge of laws by simply inviting people to take our crime test. This is basically a test app that is built on JavaScript.
